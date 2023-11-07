@@ -4,6 +4,22 @@ body {
     
     background: rgb(215,215,215);
 background: radial-gradient(circle, rgba(215,215,215,1) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 50%, rgba(211,207,207,1) 100%);
+
+}
+
+header {
+    background-image: url(assets/spiderman3.jpg);
+    background-size: cover;
+}
+
+.back {
+    background-image: url(assets/spiderman6.png);
+    background-size: cover;
+}
+
+footer {
+    background-image: url(assets/venom1.jpg);
+    background-size: cover;
 }
 
 .img1 {
